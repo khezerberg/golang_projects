@@ -3,5 +3,5 @@ package main
 import "fmt"
 
 func main() {
-	fmt.Sprintln("awaiting imput")
+	fmt.Println("awaiting imput")
 }
